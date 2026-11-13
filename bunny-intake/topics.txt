@@ -1,0 +1,2 @@
+# One topic per line. discover.py adds the critic searches automatically.
+trending GitHub AI repos
